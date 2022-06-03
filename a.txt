@@ -1,2 +1,2 @@
  noi dung A 
- sua doi master
+sua loi conflict sua doi master 
