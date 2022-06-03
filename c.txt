@@ -1,2 +1,4 @@
  noi dung C 
 cap nhat boi beta
+
+4321
